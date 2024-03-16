@@ -1,6 +1,6 @@
 apiVersion: v2
 name: javawebapp
-description: A Helm chart for P2pro tech JavaWeb Application
+description: A Helm chart for JavaWeb Application
 
 # A chart can be either an 'application' or a 'library' chart.
 #
